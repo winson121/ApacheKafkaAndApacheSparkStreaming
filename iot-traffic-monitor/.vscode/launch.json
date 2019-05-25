@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - IoTDataProcessor",
+            "request": "launch",
+            "mainClass": "com.iot.app.spark.processor.IoTDataProcessor",
+            "projectName": "iot-spark-processor"
+        }
+    ]
+}

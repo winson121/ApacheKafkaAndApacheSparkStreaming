@@ -1,0 +1,7 @@
+com/iot/app/kafka/vo/IoTDataP.class
+com/iot/app/kafka/producer/IoTDataProducer.class
+com/iot/app/kafka/util/IoTDataEncoder.class
+com/iot/app/kafka/vo/IoTData1.class
+com/iot/app/kafka/vo/IoTData2.class
+com/iot/app/kafka/util/PropertyFileReader.class
+com/iot/app/kafka/util/IoTDataEncoder2.class
